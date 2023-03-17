@@ -1,0 +1,83 @@
+* {
+    font-family: "Montserrat", sans-serif;
+}
+
+:root {
+    font-size: 16px;
+}
+
+a:link {
+    text-decoration: none;
+}
+
+
+/* Style all font awesome icons */
+.fa {
+    padding: 17px;
+    font-size: 15px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+  }
+  
+  /* Add a hover effect if you want */
+  .fa:hover {
+    opacity: 0.7;
+  }
+  
+  /* Set a specific color for each brand */
+  
+  /* Facebook */
+  .fa-facebook {
+    background: rgb(36, 36, 36);
+    border-radius: 50%;
+    color: white;
+  }
+  
+  /* Twitter */
+  .fa-twitter {
+    background: rgb(36, 36, 36);
+    border-radius: 50%;
+    color: white;
+  }
+  
+  /* Instagram */
+  .fa-instagram {
+    background: rgb(36, 36, 36);
+    border-radius: 50%;
+    color: white;
+  }
+  
+  /* Github */
+  .fa-github {
+    background: rgb(36, 36, 36);
+    border-radius: 50%;
+    color: white;
+  }
+  
+  /* LinkedIn */
+  .fa-linkedin {
+    background: rgb(36, 36, 36);
+    border-radius: 50%;
+    color: white;
+  }
+  
+  /* Fixes dropdown menus placed on the right side */
+  .me-auto .dropdown-menu {
+    left: auto !important;
+    right: 0px ;
+  }
+  
+  .width-auto{
+    width: auto !important;
+  }
+
+  .contact-link {
+    color: white;
+    text-decoration: none;
+  }
+  
+  .copyright {
+    color: white;
+    text-decoration: none;
+  }
